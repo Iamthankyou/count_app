@@ -1,4 +1,4 @@
-# count_app
+# Count app realtime for workout challenge
 
 ## Project setup
 ```
